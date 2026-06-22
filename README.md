@@ -2,7 +2,7 @@
 
 Computational data for the manuscript **"Impurity-Preserved Partition Based Density Matrix Embedding Theory for Local Electronic Excitations"**.
 
-Manuscript tracking number: To be written.
+Manuscript tracking number: ct-2026-012516.
 
 ## Overview
 
