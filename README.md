@@ -27,7 +27,7 @@ The input files and representative output files for the corresponding calcualtio
 
     The all-electron results in both `1Dy/PT2/AE` and `1Dy/CAS/AE` were taken from our
     previous work, DOI:[10.1021/acs.jctc.5c01336](https://doi.org/10.1021/acs.jctc.5c01336). 
-    The input files and representative output files for the corresponding calcualtions are also included. These files include ...
+    The input files and representative output files for the corresponding calculations are also included. The corresponding output files are provided as `1Dy/PT2/AE/jobid*.out`. All PT2 correction energies were summarized in `1Dy/PT2/AE/nevpt2.txt`, and the corrected energies were summarized in `1Dy/PT2/AE/DyCP2_opt.txt`. The subsequent results of two-step SISO calculations were summarized in `1Dy/PT2/AE/DyCP2_mag.txt`.
 
 - `2Dy/`: Calculations for
   $[\mathrm{Dy}\{\mathrm{N}[\mathrm{Si}({}^{i}\mathrm{Pr})_3][\mathrm{Si}({}^{i}\mathrm{Pr})_2\mathrm{C}(\mathrm{CH}_3)=\mathrm{CHCH}_3]\}]^+$.
